@@ -6,7 +6,7 @@ CloudFormation template for mining Ethereum (ETH) crypto currency on AWS GPU-ena
 
 ## Important!
 
-- Read about the profitability on AWS mining in my article [Mining Ethereum on AWS - is it worth it?](https://michael-ludvig.medium.com/mining-ethereum-on-aws-is-it-worth-it-f13645c12eec) first!
+- Read about the profitability on AWS mining in my article [Mining Ethereum on AWS - is it worth it?](https://blog.richiebartlett.com/2022/0329/Work_仕事/New-AWS-instance-that-makes-ETH-mining-profitable.html) first!
 
 - [Reach out to me](../../issues) if you need help with any customisation, e.g. to add support for other crypto currencies, etc.
 
@@ -133,8 +133,7 @@ it contains some important considerations. Alternatively, if you think you know 
 
 [Michael Ludvig](https://aws.nz), you're welcome :)
 
-Did you make some profit using this template and wish to say thanks? Any ETH amount sent to my address will be much appreciated: **0x99b36B44cf319c9E0ed4619ee2050B21ECac2c15**
+Did you make some profit using this template and wish to say thanks? Any ETH amount sent to my address will be much appreciated: 
 
-![0x99b36B44cf319c9E0ed4619ee2050B21ECac2c15](qr.png)
 
 Thanks! :)

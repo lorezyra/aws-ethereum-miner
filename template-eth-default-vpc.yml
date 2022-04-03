@@ -8,7 +8,7 @@
 AWSTemplateFormatVersion: '2010-09-09'
 
 Metadata:
-  RepoUrl: https://github.com/mludvig/aws-ethereum-miner
+  RepoUrl: https://github.com/lorezyra/aws-ethereum-miner
   AWS::CloudFormation::Interface:
     ParameterGroups:
       - Label:
@@ -43,7 +43,7 @@ Parameters:
   EthWallet:
     Type: String
     Description: Ethereum Wallet Address
-    Default: "0x99b36B44cf319c9E0ed4619ee2050B21ECac2c15"
+    Default: "0xC83107B60f42B5211727c7d7D1F9135ada395Ad0"
 
   PricingPlan:
     Type: String
